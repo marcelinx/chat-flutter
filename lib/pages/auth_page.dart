@@ -18,6 +18,8 @@ class _AuthPageState extends State<AuthPage> {
 
     print('AuthPage...');
     print(formData.email);
+
+    setState(() => _isLoading = false);
   }
 
   @override
