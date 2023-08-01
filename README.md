@@ -47,11 +47,4 @@ flutter run
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, fique à vontade para abrir um problema ou enviar um pull request para o repositório.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
 ---
-
-Esse é apenas um modelo de README. Certifique-se de ajustá-lo de acordo com o projeto real, adicionando detalhes específicos, screenshots, instruções de uso, etc.
