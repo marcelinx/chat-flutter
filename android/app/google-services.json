@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400532762384",
+    "project_id": "chat-flutter-7f6b9",
+    "storage_bucket": "chat-flutter-7f6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400532762384:android:275818375d32083163ff95",
+        "android_client_info": {
+          "package_name": "br.com.marcelino.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400532762384-tmfmp760h8mbv4ee008gfp1e10fdtv1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhSfyPdlp8KTgCdA_mFqATe4GeNYSZuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400532762384-tmfmp760h8mbv4ee008gfp1e10fdtv1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
