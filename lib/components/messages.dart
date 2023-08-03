@@ -5,7 +5,7 @@ import 'package:chat/core/services/chat/chat_service.dart';
 import 'package:flutter/material.dart';
 
 class Messages extends StatelessWidget {
-  const Messages({Key? key}) : super(key: key);
+  const Messages({super.key});
 
   @override
   Widget build(BuildContext context) {
